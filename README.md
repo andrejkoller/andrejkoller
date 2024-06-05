@@ -66,7 +66,9 @@
       </div>
       <div class="social-desc" align="center">
         <p>
+          <a href="mailto:andrejkoller@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
           <a href="https://linktr.ee/andrejkoller" target="_blank"><img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"></a>
+          <a href="https://www.linkedin.com/in/andrej-koller-7b55b4281/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
         </p>
       </div>
     </div>
