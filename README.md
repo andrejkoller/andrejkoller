@@ -1,5 +1,5 @@
 <body>
-  <div class="heading-container" align="center">
+  <div class="heading-container" align="left">
   <div class="heading">
     <h1>Hey there 🤘, I'm Andrej 😸</h1>
   </div>
