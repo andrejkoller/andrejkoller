@@ -53,8 +53,7 @@
       <div class="hobby-desc">
         <p>classical music. Be it either the elegant Chopin, gentle Bach, graceful Mozart or even the bizarre Satie. They and more impacted me so greatly in my daily life that I started taking piano lessons in 2018 until now.</p>
         <p>Metal music and its different sub-genres, but mostly metal core. When I made my first contact with the band Wolves At The Gate 
-        and its album Eulogies, released in 2022, I knew that I had discovered a new favorite music genre. I also started teaching myself 
-        the bass guitar for fun.</p>
+        and its album Eulogies, released in 2022, I knew that I had discovered a new favorite music genre.</p>
         <p>When I'm not coding or making music, I enjoy reading books about dark fantasy-themed stories, biographies and apologetic subjects, mostly Christian- and Islam-related. </p>
       </div>
     </div>
