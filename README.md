@@ -12,4 +12,9 @@
     If you want help with project management or development, or just chat with me: <a href="mailto:andrejkoller@outlook.com">andrejkoller@outlook.com</a> 📧
   </p>
 </div>
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,dotnet,java,wordpress,wasm)](https://skillicons.dev">
+  </p>
+</div>
 </body>
