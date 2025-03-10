@@ -4,7 +4,7 @@
 </div>
 <div>
   <p>I'm Andrej Koller 👋<br>
-    I currently code both in Front- and Backend. Feel free to visit <a href="https://andrejkoller.com">my website</a> 💭
+    I currently code both in Front- and Backend. Feel free to visit <a href="https://www.andrejkoller.com">my website</a> 💭
   </p>
 </div>
 <div>
@@ -14,7 +14,7 @@
 </div>
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,tailwind,bootstrap,dotnet,java,wordpress,wasm)](https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,tailwind,bootstrap,dotnet,cs,java,wordpress,wasm)](https://skillicons.dev">
   </p>
 </div>
 </body>
