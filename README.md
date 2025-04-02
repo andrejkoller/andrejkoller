@@ -14,7 +14,7 @@
 </div>
 <div align="center">
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nextjs,tailwind,bootstrap,dotnet,cs,java,wordpress,wasm)](https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,react,nextjs,threejs,tailwind,bootstrap,dotnet,cs,java,wordpress,wasm)](https://skillicons.dev">
   </p>
 </div>
 </body>
