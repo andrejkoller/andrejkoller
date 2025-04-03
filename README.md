@@ -4,7 +4,7 @@
 </div>
 <div>
   <p>I'm Andrej Koller 👋<br>
-    I currently code both in Front- and Backend. Feel free to visit <a href="https://www.andrejkoller.com">my website</a> 💭
+    I currently code both in Front- and Backend. Feel free to visit <a href="https://www.andrejkoller.com" target="_blank">my website</a> 💭
   </p>
 </div>
 <div>
