@@ -69,12 +69,8 @@
     <br>WordPress
   </td>
   <td align="center" width="88">
-    <img src="./images/visualstudiocode.svg" alt="VS Code" width="44" height="44"/>
-    <br>VS Code
-  </td>
-  <td align="center" width="88">
-    <img src="./images/visualstudio.svg" alt="Visual Studio" width="44" height="44"/>
-    <br>VS
+      <img src="./images/webflow.svg" alt="WordPress" width="44" height="44"/>
+    <br>Webflow
   </td>
   <td align="center" width="88">
     <img src="./images/figma.svg" alt="Figma" width="44" height="44"/>
@@ -83,6 +79,14 @@
   <td align="center" width="88">
     <img src="./images/canva.svg" alt="Canva" width="44" height="44"/>
     <br>Canva
+  </td>
+  <td align="center" width="88">
+    <img src="./images/visualstudiocode.svg" alt="VS Code" width="44" height="44"/>
+    <br>VS Code
+  </td>
+  <td align="center" width="88">
+    <img src="./images/visualstudio.svg" alt="Visual Studio" width="44" height="44"/>
+    <br>VS
   </td>
 </table>
 </div>
