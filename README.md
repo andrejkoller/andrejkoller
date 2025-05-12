@@ -9,7 +9,14 @@
         <br />
         I'm Andrej Koller 👋
         <br />
-        I currently code both in Front- and Backend. Feel free to visit <a href="https://www.andrejkoller.com" target="_blank">my website</a> 💭
+        I currently code both in Front- and Backend. Feel free to visit <a href="https://www.andrejkoller.com" target="_blank">my website</a> 💭.
+      </p>
+    </div>
+    <div>
+      <p>
+        Besides programming, I have a strong interest in studying Islam and Christianity.
+        <br />
+        I’m also passionate about playing the piano 🎹.
       </p>
     </div>
     <div>
