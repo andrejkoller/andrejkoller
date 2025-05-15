@@ -23,7 +23,7 @@
       <h2>Languages & Tools</h2>
     </div>
     <div>
-      <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,react,nextjs,tailwind,bootstrap" />
+      <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,react,nextjs,vue,tailwind,bootstrap" />
     </div>
     <div>
       <img src="https://skillicons.dev/icons?i=dotnet,cs,java" />
