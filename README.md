@@ -14,13 +14,6 @@
     </div>
     <div>
       <p>
-        Besides programming, I have a strong interest in studying Islam and Christianity.
-        <br />
-        I’m also passionate about playing the piano 🎹.
-      </p>
-    </div>
-    <div>
-      <p>
         If you want help with project management or development, or just chat with me: <a href="mailto:andrejkoller@outlook.com">andrejkoller@outlook.com</a> 📧
       </p>
     </div>
