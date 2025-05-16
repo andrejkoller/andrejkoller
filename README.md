@@ -22,9 +22,9 @@
 <div>
   <h2>Some GitHub stats</h2>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejkoller&theme=dark&background=141321&text_color=ffffff&hide_progress=true" alt="Andrej's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejkoller&theme=highcontrast&text_color=ffffff&hide_progress=true" alt="Andrej's GitHub Stats" />
   </p>
   <p>
-     <img src="https://streak-stats.demolab.com?user=andrejkoller&theme=dark&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="Andrej's GitHub Stats" />
+     <img src="https://streak-stats.demolab.com?user=andrejkoller&theme=highcontrast&border_radius=0&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats" alt="Andrej's GitHub Stats" />
   </p>
 </div>
