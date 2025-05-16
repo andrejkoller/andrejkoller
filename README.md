@@ -1,32 +1,26 @@
 <div>
-  <p>Hello! My name is Andrej Koller 💫.</p>
-  <p>I am a passionate web developer with experience in both frontend and backend technologies.</p>
-  <p>While I enjoy working across the full stack, my true passion lies in <strong>frontend development and user experience design</strong>. I love creating clean, accessible, and visually engaging interfaces that make using applications a joy.</p>
-</div>
-<div>
-  <p>Here are the technologies and tools I’ve worked with so far:</p>
-
+  <h2>Resume</h2>
   <div>
-      <p><strong>Frontend & Styling</strong></p>
-      <p>HTML5, CSS3, SCSS, JavaScript, TypeScript, Angular, React, Vue.js, Next.js, Tailwind CSS, Bootstrap</p>
-  </div>
-  <div>
-    <p><strong>Backend & Programming Languages</strong></p>
-    <p>.NET, C#, Java, MSSQL</p>
-  </div>
-  <div>
-    <p><strong>Content Management & Tools</strong></p>
-    <p>WordPress, Webflow</p>
-  </div>
-  <div>
-    <p><strong>IDEs & Editors</strong></p>
-    <p>Visual Studio Code, Visual Studio</p>
+    <p>
+      Hello,
+      <br />
+      I'm Andrej Koller
+      <br />
+      I currently code both in Front- and Backend. Feel free to visit <a href="https://www.andrejkoller.com" target="_blank">my website</a> 💭.
+    </p>
+    <p>
+      If you want help with project management or development, or just chat with me: <a href="mailto:andrejkoller@outlook.com">andrejkoller@outlook.com</a> 📧
+    </p>
   </div>
 </div>
 <div>
-  <p>If you want help with project management or development, or just chat with me: <a href="mailto:andrejkoller@outlook.com">andrejkoller@outlook.com</a> 📧</p>
+  <h2>Languages & Tools I used so far</h2>
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,angular,react,nextjs,vue,tailwind,bootstrap,dotnet,cs,java,wordpress,webflow,vscode,visualstudio" />
+  </p>
 </div>
 <div>
+  <h2>Some GitHub stats</h2>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrejkoller&theme=dark&background=141321&text_color=ffffff&hide_progress=true" alt="Andrej's GitHub Stats" />
   </p>
