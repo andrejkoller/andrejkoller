@@ -3,7 +3,7 @@ I'm Andrej from Germany, and I’m passionate about both design and web developm
 
 ## Skills and Experience
 * 🧩 React, Angular, VueJS, NextJS
-* ⚙️ .NET, C#, Java
+* ⚙️ .NET, C#, Java, C++
 * 💻 HTML, CSS/SCSS, JS, TS, TailwindCSS, Bootstrap
 * 🌐 WordPress, Webflow, Figma, Canva
 
