@@ -3,9 +3,10 @@ I'm Andrej from Germany, and I’m passionate about both design and web developm
 
 ## Skills and Experience
 * 🧩 React, Angular, VueJS, NextJS
-* ⚙️ .NET, C#, Java, C++
+* ⚙️ .NET, C#, Java, C++, MSSQL
 * 💻 HTML, CSS/SCSS, JS, TS, TailwindCSS, Bootstrap
 * 🌐 WordPress, Webflow, Figma, Canva
+* ⚒️ Postman
 
 ## GitHub Stats
 ![Andrej's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejkoller&theme=github_dark_dimmed&layout=compact&text_color=ffffff&hide_progress=true")
