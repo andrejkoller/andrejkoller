@@ -1,12 +1,18 @@
-# Andrej Koller
-I'm Andrej from Germany, and I’m passionate about both design and web development. I enjoy working with modern frameworks like React and Angular, creating user-friendly interfaces, and focusing on UI/UX design. I also work with WordPress and love bringing ideas to life through wireframes and clean visual concepts. Exploring new tools and improving the user experience is something I truly enjoy.
+<div align="center">
+  *"Simplifying Complexity, Building Solutions"*
+</div>
 
-## Skills and Experience
-* 🧩 React, Angular, VueJS, NextJS
-* ⚙️ .NET, C#, Java, C++, MSSQL
-* 💻 HTML, CSS/SCSS, JS, TS, TailwindCSS, Bootstrap
-* 🌐 WordPress, Webflow, Figma, Canva
-* ⚒️ Visual Studio Code, Visual Studio, Postman, Git, LocalWP
+### Currently:
+- 🎨 Obsessed with creating delightful developer experiences
 
-## GitHub Stats
-![Andrej's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andrejkoller&theme=github_dark_dimmed&layout=compact&text_color=ffffff&hide_progress=true")
+### Skills and Experience
+* 🧩 Angular, React, Nextjs, Vuejs
+* ⚙️ C#, C++, Java, .NET, MSSQL
+* 💻 HTML, CSS, SCSS, JavaScript, TypeScript, Bootstrap, TailwindCSS
+* 🌐 WordPress, Webflow, Canva, Figma
+* ⚒️ Visual Studio, Visual Studio Code, Git, Postman, LocalWP
+
+### GitHub Stats
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=andrejkoller&theme=dark&hide_border=true&background=000000" />
+</div>
