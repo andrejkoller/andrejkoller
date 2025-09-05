@@ -2,7 +2,7 @@
   *"Simplifying Complexity, Building Solutions"*
 </div>
 
-### Currently:
+### Currently
 - 🎨 Obsessed with creating delightful developer experiences
 
 ### Skills and Experience
