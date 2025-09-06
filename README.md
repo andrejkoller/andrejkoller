@@ -1,5 +1,5 @@
 <div align="center">
-  *"Simplifying Complexity, Building Solutions"*
+  *Simplifying Complexity, Building Solutions*
 </div>
 
 ### Currently
