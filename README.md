@@ -6,6 +6,7 @@
 - 🎨 Obsessed with creating delightful developer experiences
 - 🧱 Building my own UI component library - Omelia UI
 - ⚡ Planning a new JavaScript framework - Sophia JS
+- 🖼️ Crafting a sleek and expressive icon library
 
 ### Skills and Experience
 * 🧩 Angular, React, Nextjs, Vuejs
