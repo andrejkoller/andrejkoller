@@ -4,8 +4,8 @@
 
 ### Currently
 - 🎨 Obsessed with creating delightful developer experiences
-- 🧱 Building my own UI component library - Omelia UI
-- ⚡ Planning a new JavaScript framework - Sophia JS
+- 🧱 Building my own UI component library - omeliaui
+- ⚡ Planning a new JavaScript framework - sophiajs
 - 🖼️ Crafting a sleek and expressive icon library
 
 ### Skills and Experience
