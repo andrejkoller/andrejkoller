@@ -6,7 +6,7 @@
 - 🎨 Obsessed with creating delightful developer experiences
 - 🧱 Building my own UI component library - omeliaui
 - ⚡ Planning a new JavaScript framework - sophiajs
-- 🖼️ Crafting a sleek and expressive icon library
+- 🖼️ Crafting a sleek and expressive icon library - eleganticons
 
 ### Skills and Experience
 * 🧩 Angular, React, Nextjs, Vuejs
