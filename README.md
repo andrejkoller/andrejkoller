@@ -1,6 +1,4 @@
-<div align="center">
-  *Simplifying Complexity, Building Solutions*
-</div>
+<div align="center">*Simplifying Complexity, Building Solutions*</div>
 
 ### Currently
 - 🎨 Obsessed with creating delightful developer experiences
@@ -16,6 +14,7 @@
 * ⚒️ Visual Studio, Visual Studio Code, Git, Postman, LocalWP
 
 ### GitHub Stats
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=andrejkoller&theme=dark&hide_border=true&background=000000&exclude_days=Sun%2CSat" alt="GitHub Daily Streak" />
-</div>
+![GitHub Daily Streak](https://streak-stats.demolab.com?user=andrejkoller&theme=dark&hide_border=true&background=000000&exclude_days=Sun%2CSat")
+
+### Visitor Count
+![Visitor Count](https://count.getloli.com/get/@andrejkoller?theme=rule34)
