@@ -13,8 +13,8 @@
 * 🌐 WordPress, Webflow, Canva, Figma
 * ⚒️ Visual Studio, Visual Studio Code, Git, Postman, LocalWP
 
-### GitHub Stats
-![GitHub Daily Streak](https://streak-stats.demolab.com?user=andrejkoller&theme=dark&hide_border=true&background=000000&exclude_days=Sun%2CSat")
-
 ### Visitor Count
 ![Visitor Count](https://count.getloli.com/get/@andrejkoller?theme=rule34)
+
+### GitHub Stats
+![GitHub Daily Streak](https://streak-stats.demolab.com?user=andrejkoller&theme=dark&hide_border=true&background=000000&exclude_days=Sun%2CSat")
