@@ -11,7 +11,7 @@
 * ⚙️ C#, C++, Java, Rust, .NET, MSSQL
 * 💻 HTML, CSS, SCSS, JavaScript, TypeScript, Bootstrap, TailwindCSS
 * 🌐 WordPress, Webflow, Canva, Figma
-* ⚒️ Visual Studio, Visual Studio Code, Git, Postman, LocalWP
+* ⚒️ Visual Studio, Visual Studio Code, GitHub, GitLab, Postman, LocalWP
 
 ### Visitor Count
 ![Visitor Count](https://count.getloli.com/get/@andrejkoller?theme=rule34)
