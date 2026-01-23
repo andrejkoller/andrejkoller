@@ -7,7 +7,7 @@
 - 🖼️ Crafting a sleek and expressive icon library - eleganticons
 
 ### Skills and Experience
-* 🧩 Angular, React, Nextjs, Vuejs
+* 🧩 Angular, React, Svelte, Nextjs, Vuejs
 * ⚙️ C#, C++, Java, Rust, .NET, MSSQL
 * 💻 HTML, CSS, SCSS, JavaScript, TypeScript, Bootstrap, TailwindCSS
 * 🌐 WordPress, Webflow, Canva, Figma
