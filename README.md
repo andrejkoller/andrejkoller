@@ -2,9 +2,10 @@
 
 ### Currently
 - 🎨 Obsessed with creating delightful developer experiences
-- 🧱 Building my own UI component library - omeliaui
-- ⚡ Planning a new JavaScript framework - sophiajs
-- 🖼️ Crafting a sleek and expressive icon library - eleganticons
+- 🧱 Building my own UI component library
+- ⚡ Planning a new JavaScript framework
+- 🖼️ Crafting a sleek and expressive icon library
+- 📊 Designing a refined and uplifting charting system
 
 ### Skills and Experience
 * 🧩 Angular, React, Svelte, Nextjs, Vuejs
