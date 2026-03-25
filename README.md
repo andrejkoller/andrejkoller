@@ -9,7 +9,7 @@
 
 ### Skills and Experience
 * 🧩 Angular, React, Svelte, Nextjs, Vuejs
-* ⚙️ C#, C++, Java, Rust, .NET, COBOL, MSSQL
+* ⚙️ C#, C++, Java, Rust, .NET Core, COBOL, MSSQL
 * 💻 HTML, CSS, SCSS, JavaScript, TypeScript, Bootstrap, TailwindCSS
 * 🌐 WordPress, Webflow, Canva, Figma
 * ⚒️ Visual Studio, Visual Studio Code, GitHub, GitLab, Postman, LocalWP
