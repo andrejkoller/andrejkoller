@@ -8,6 +8,11 @@
   - 🖼️ Crafting a sleek and expressive icon library
   - 📊 Designing a refined and uplifting charting system
 
+### Organizations
+- [Athanasa](https://github.com/athanasa-systems) - UI Components & Web Tools
+- [Fading Hell](https://github.com/fadinghell) - My Band (Hardcore Punk / Metalcore)
+- [Pretty Swing](https://github.com/prettyswing) - My Electro Swing Group
+
 ### Skills and Experience
 - 🧩 Angular, React, Svelte, Nextjs, Vuejs
 - ⚙️ C#, C++, Java, .NET Core, MSSQL
