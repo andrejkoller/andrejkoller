@@ -4,6 +4,7 @@
 
 ### Currently
 - 🎨 Obsessed with creating delightful developer experiences
+- 🎡 Building immersive digital experiences and interactive web worlds
 - 🏛️ Establishing a foundation that ties all projects into one platform - [Athanasa](https://github.com/athanasa-systems/athanasa)
   - 🧱 Building a flexible and accessible UI component library - [Omelia UI](https://github.com/athanasa-systems/omeliaui) (🔒 → 🔓 planned)
   - ⚡ Planning a new JavaScript framework - [Sophia.js](https://github.com/athanasa-systems/sophiajs) (🔒 → 🔓 planned)
