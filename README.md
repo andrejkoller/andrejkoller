@@ -11,6 +11,7 @@
   - ⚡ Planning a new JavaScript framework - [Sophia.js](https://github.com/athanasa-systems/sophiajs) (🔒 → 🔓 planned)
   - 🖼️ Crafting a sleek and expressive icon library - [Elegant Icons](https://github.com/athanasa-systems/eleganticons) (🔒 → 🔓 planned)
   - 📊 Designing a refined and uplifting charting system - [Lofty Charts](https://github.com/athanasa-systems/loftycharts) (🔒 → 🔓 planned)
+  - 🖌️ Refining elegant VS Code themes inspired by light and night - balancing clarity, focus, and atmosphere for modern development workflows - [Iris Theme](https://github.com/athanasa-systems/iris-theme) · [Nyx Theme](https://github.com/athanasa-systems/nyx-theme) (🔒 → 🔓 planned)
 
 ### Skills and Experience
 - 🧩 Angular, React, Svelte, Nextjs, Vuejs
