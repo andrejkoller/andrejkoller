@@ -22,8 +22,8 @@
 - 🤖 ChatGPT, GitHub Copilot, Claude
 
 ### Live Projects
-- [Andrej Koller - Official Website](https://www.andrejkoller.com)
-- [Andrej Koller - Developer Portfolio](https://dev.andrejkoller.com)
+- [Official Website](https://www.andrejkoller.com)
+- [Developer Portfolio](https://dev.andrejkoller.com)
 
 ### Software Releases
 - 🌲🏚️ [Woodland Mansion](https://github.com/andrejkoller/woodland-mansion) - Immersive text-based adventure game where you explore a mysterious abandoned mansion.
