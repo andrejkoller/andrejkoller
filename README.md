@@ -25,7 +25,7 @@
 - [Developer Portfolio](https://dev.andrejkoller.com)
 
 ### Software Releases
-- 🌲🏚️ [Woodland Mansion](https://github.com/andrejkoller/woodland-mansion) - Immersive text-based adventure game where you explore a mysterious abandoned mansion.
+- [Woodland Mansion](https://github.com/andrejkoller/woodland-mansion) - 🌲🏚️ Immersive text-based adventure game where you explore a mysterious abandoned mansion.
 
 ### GitHub Stats
 ![GitHub Daily Streak](https://streak-stats.demolab.com?user=andrejkoller&theme=dark&hide_border=true&background=000000&exclude_days=Sun%2CSat")
