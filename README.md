@@ -4,7 +4,6 @@
 
 ### Currently
 - 🎨 Obsessed with creating delightful developer experiences
-- 🎤 Creating modern presentation software for churches, ministries, and live productions - [OpenPresenter](https://github.com/openpresenter)
 - 🎡 Building immersive digital experiences and interactive web worlds - [Digital Carnival](https://github.com/digitalcarnival)
 - 🏛️ Establishing a foundation that ties all projects into one platform - [Athanasa](https://github.com/athanasa-systems)
   - 🧱 Building a flexible and accessible UI component library - [Omelia UI](https://github.com/athanasa-systems/omeliaui) (🔒 → 🔓 planned)
