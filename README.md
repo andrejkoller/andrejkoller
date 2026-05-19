@@ -25,7 +25,7 @@
 - [Developer Portfolio](https://dev.andrejkoller.com) - 🖥️✨ Minimal, interactive portfolio with refined UX, custom effects, and mobile-first responsiveness.
 - [Apps Factory](https://apps.andrejkoller.com)
 - [Particle Component](https://particle-component.vercel.app) - ✨ An animated particle grid effect with hover interactions.
-- [Spotify Top 50 Songs Dashboard](https://spotify-top-50-songs-dashboard.vercel.app) - 🟢🎧 Vue 3 web application that displays your Spotify Top 50 tracks with authentication, real-time search, and a beautiful Vuetify UI.
+- [Spotify Top 50 Songs Dashboard](https://spotify-top-50-songs-dashboard.vercel.app) - 🟢🎧 Vue 3 web application that displays my Spotify Top 50 tracks with authentication, real-time search, and a beautiful Vuetify UI.
 
 ### Software Releases
 - [Woodland Mansion](https://github.com/andrejkoller/woodland-mansion) - 🌲🏚️ Immersive text-based adventure game where you explore a mysterious abandoned mansion.
