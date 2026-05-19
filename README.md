@@ -12,14 +12,6 @@
   - 📊 Designing a refined and uplifting charting system - [Lofty Charts](https://github.com/athanasa-systems/loftycharts) (🔒 → 🔓 planned)
   - 🖌️ Refining elegant VS Code themes inspired by light and night - balancing clarity, focus, and atmosphere for modern development workflows - [Iris Theme](https://github.com/athanasa-systems/iris-theme) · [Nyx Theme](https://github.com/athanasa-systems/nyx-theme) (🔒 → 🔓 planned)
 
-### Skills and Experience
-- 🧩 Angular, React, Svelte, Nextjs, Vuejs
-- ⚙️ C#, C++, Java, .NET Core, MSSQL
-- 💻 HTML, SCSS, TypeScript, Bootstrap, TailwindCSS, GSAP
-- 🌐 WordPress, Webflow, Canva, Figma
-- ⚒️ Visual Studio, Visual Studio Code, GitHub, GitLab, Postman, LocalWP
-- 🤖 ChatGPT, GitHub Copilot, Claude
-
 ### Live Projects
 - [Official Website](https://github.com/andrejkoller/andrejkoller-next)
 - [Developer Portfolio](https://github.com/andrejkoller/dev-andrejkoller-next) - 🖥️✨ Minimal, interactive portfolio with refined UX, custom effects, and mobile-first responsiveness.
@@ -29,6 +21,14 @@
 
 ### Software Releases
 - [Woodland Mansion](https://github.com/andrejkoller/woodland-mansion) - 🌲🏚️ Immersive text-based adventure game where you explore a mysterious abandoned mansion.
+
+### Skills and Experience
+- 🧩 Angular, React, Svelte, Nextjs, Vuejs
+- ⚙️ C#, C++, Java, .NET Core, MSSQL
+- 💻 HTML, SCSS, TypeScript, Bootstrap, TailwindCSS, GSAP
+- 🌐 WordPress, Webflow, Canva, Figma
+- ⚒️ Visual Studio, Visual Studio Code, GitHub, GitLab, Postman, LocalWP
+- 🤖 ChatGPT, GitHub Copilot, Claude
 
 ### GitHub Stats
 ![GitHub Daily Streak](https://streak-stats.demolab.com?user=andrejkoller&theme=dark&hide_border=true&background=000000&exclude_days=Sun%2CSat")
