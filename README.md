@@ -14,13 +14,13 @@
 
 ### Live Projects
 - [Official Website](https://github.com/andrejkoller/andrejkoller-next)
-- [Developer Portfolio](https://github.com/andrejkoller/dev-andrejkoller-next) - 🖥️✨ Minimal, interactive portfolio with refined UX, custom effects, and mobile-first responsiveness.
+- [Developer Portfolio](https://github.com/andrejkoller/dev-andrejkoller-next)
 - [Apps Factory](https://github.com/andrejkoller/apps-andrejkoller-next)
-- [Particle Component](https://github.com/andrejkoller/particle-component) - ✨ An animated particle grid effect with hover interactions.
-- [Spotify Top 50 Songs Dashboard](https://github.com/andrejkoller/spotify-top-50-songs-dashboard) - 🟢🎧 Vue 3 web application that displays my Spotify Top 50 tracks with authentication, real-time search, and a beautiful Vuetify UI.
+- [Particle Component](https://github.com/andrejkoller/particle-component)
+- [Spotify Top 50 Songs Dashboard](https://github.com/andrejkoller/spotify-top-50-songs-dashboard)
 
 ### Software Releases
-- [Woodland Mansion](https://github.com/andrejkoller/woodland-mansion) - 🌲🏚️ Immersive text-based adventure game where you explore a mysterious abandoned mansion.
+- [Woodland Mansion](https://github.com/andrejkoller/woodland-mansion)
 
 ### Skills and Experience
 - 🧩 Angular, React, Svelte, Nextjs, Vuejs
