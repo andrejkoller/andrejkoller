@@ -1,6 +1,5 @@
 ### Currently
 - 🏛️ Building the foundation for an ecosystem of software, design, and creative projects - [Athanasa](https://github.com/athanasasystems)
-  - 🔐 Developing identity and security infrastructure for modern applications - [Kleisa](https://github.com/athanasasystems/kleisa)
 - 📚 Building a digital library for Scripture, theology, philosophy, and religious scholarship - [Qalamis](https://github.com/qalamis)
 
 ### Skills and Experience
