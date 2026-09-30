@@ -36,7 +36,7 @@ async function getLatestVideos(channelId) {
   const xml = await response.text();
   const entries = [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)];
 
-  return entries.slice(0, 3).map((entry) => {
+  return entries.slice(0, 4).map((entry) => {
     const content = entry[1];
 
     const title = content
@@ -65,7 +65,7 @@ function createMarkdown(videos) {
         title,
         videoId,
       }) => `  <a href="https://www.youtube.com/watch?v=${videoId}">
-    <img src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" width="32%" alt="${escapeHtml(title)}">
+    <img src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" width="25%" alt="${escapeHtml(title)}">
   </a>`,
     )
     .join("\n");
