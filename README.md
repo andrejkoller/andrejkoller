@@ -12,6 +12,8 @@ Portfolio - [dev.andrejkoller.com](https://dev.andrejkoller.com)
   
 </div>
 
+<br />
+
 <div align="center">
 
   <a href="https://www.youtube.com/@andrejkoller">
@@ -28,3 +30,5 @@ Portfolio - [dev.andrejkoller.com](https://dev.andrejkoller.com)
   </a>
 
 </div>
+
+<br />
