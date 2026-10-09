@@ -1,7 +1,8 @@
 # andrejkoller
 
 Official Website - [andrejkoller.com](https://andrejkoller.com)
-Portfolio - [dev.andrejkoller.com](https://dev.andrejkoller.com)
+
+Developer Portfolio - [dev.andrejkoller.com](https://dev.andrejkoller.com)
 
 <p align="left">
   <a href="https://github.com/athanasasystems">Athanasa Systems</a>
