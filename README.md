@@ -10,10 +10,8 @@ Developer Portfolio - [dev.andrejkoller.com](https://dev.andrejkoller.com)
   <a href="https://github.com/akirune">Akirune Interactive</a>
 </p>
 
-<br />
+## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 
 <!-- YOUTUBE:END -->
-
-<br />
