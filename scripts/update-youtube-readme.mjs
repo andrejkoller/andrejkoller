@@ -1,28 +1,9 @@
 import fs from "node:fs/promises";
 
-const CHANNEL_HANDLE = "andrejkoller";
+const CHANNEL_ID = "UCq1yARQl1-6emmxLu0E3cSQ"; // <-- hardcoded
 const README_PATH = "README.md";
 const START_MARKER = "<!-- YOUTUBE:START -->";
 const END_MARKER = "<!-- YOUTUBE:END -->";
-
-async function getChannelId() {
-  const response = await fetch(`https://www.youtube.com/@${CHANNEL_HANDLE}`, {
-    headers: { "User-Agent": "Mozilla/5.0" },
-  });
-
-  if (!response.ok) {
-    throw new Error(`Could not fetch YouTube channel: ${response.status}`);
-  }
-
-  const html = await response.text();
-  const match = html.match(/"channelId":"(UC[a-zA-Z0-9_-]+)"/);
-
-  if (!match) {
-    throw new Error("Could not find the YouTube channel ID.");
-  }
-
-  return match[1];
-}
 
 async function getLatestVideos(channelId) {
   const response = await fetch(
@@ -36,18 +17,21 @@ async function getLatestVideos(channelId) {
   const xml = await response.text();
   const entries = [...xml.matchAll(/<entry>([\s\S]*?)<\/entry>/g)];
 
-  return entries.slice(0, 4).map((entry) => {
-    const content = entry[1];
+  return entries
+    .slice(0, 4)
+    .map((entry) => {
+      const content = entry[1];
 
-    const title = content
-      .match(/<title>([\s\S]*?)<\/title>/)?.[1]
-      ?.replace(/<!\[CDATA\[|\]\]>/g, "")
-      .trim();
+      const title = content
+        .match(/<title>([\s\S]*?)<\/title>/)?.[1]
+        ?.replace(/<!\[CDATA\[|\]\]>/g, "")
+        .trim();
 
-    const videoId = content.match(/<yt:videoId>(.*?)<\/yt:videoId>/)?.[1];
+      const videoId = content.match(/<yt:videoId>(.*?)<\/yt:videoId>/)?.[1];
 
-    return { title, videoId };
-  });
+      return { title, videoId };
+    })
+    .filter((v) => v.videoId); // leere Einträge rausfiltern
 }
 
 function escapeHtml(value) {
@@ -59,13 +43,17 @@ function escapeHtml(value) {
 }
 
 function createMarkdown(videos) {
+  if (videos.length === 0) {
+    return `${START_MARKER}\n\n<div align="center">\n\n*Noch keine Videos vorhanden.*\n\n</div>\n\n${END_MARKER}`;
+  }
+
   const cards = videos
     .map(
       ({
         title,
         videoId,
       }) => `  <a href="https://www.youtube.com/watch?v=${videoId}">
-    <img src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" width="25%" alt="${escapeHtml(title)}">
+    <img src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" width="25%" alt="${escapeHtml(title || "YouTube Video")}">
   </a>`,
     )
     .join("\n");
@@ -82,12 +70,7 @@ ${END_MARKER}`;
 }
 
 async function updateReadme() {
-  const channelId = await getChannelId();
-  const videos = await getLatestVideos(channelId);
-
-  if (videos.length === 0) {
-    throw new Error("No YouTube videos found.");
-  }
+  const videos = await getLatestVideos(CHANNEL_ID);
 
   const readme = await fs.readFile(README_PATH, "utf8");
   const markdown = createMarkdown(videos);
@@ -99,7 +82,7 @@ async function updateReadme() {
     : `${readme.trim()}\n\n${markdown}\n`;
 
   await fs.writeFile(README_PATH, updatedReadme);
-  console.log(`Updated README with ${videos.length} YouTube videos.`);
+  console.log(`Updated README with ${videos.length} YouTube video(s).`);
 }
 
 updateReadme().catch((error) => {
