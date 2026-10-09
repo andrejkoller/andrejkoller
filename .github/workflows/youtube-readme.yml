@@ -38,7 +38,6 @@ jobs:
 
           git commit -m "chore: update latest YouTube videos"
 
-          # Neuesten Stand holen und pushen
           git fetch origin main
           git rebase origin/main || git rebase --abort
           git push --force-with-lease origin main
