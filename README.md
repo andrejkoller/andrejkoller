@@ -11,9 +11,7 @@ Portfolio - [dev.andrejkoller.com](https://dev.andrejkoller.com)
 <br />
 
 <!-- YOUTUBE:START -->
-<div align="left">
 
-</div>
 <!-- YOUTUBE:END -->
 
 <br />
