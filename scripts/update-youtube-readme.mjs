@@ -44,27 +44,50 @@ function escapeHtml(value) {
 
 function createMarkdown(videos) {
   if (videos.length === 0) {
-    return `${START_MARKER}\n\n<div align="center">\n\n*Noch keine Videos vorhanden.*\n\n</div>\n\n${END_MARKER}`;
-  }
-
-  const cards = videos
-    .map(
-      ({
-        title,
-        videoId,
-      }) => `  <a href="https://www.youtube.com/watch?v=${videoId}">
-    <img src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" width="25%" alt="${escapeHtml(title || "YouTube Video")}">
-  </a>`,
-    )
-    .join("\n");
-
-  return `${START_MARKER}
+    return `${START_MARKER}
 
 <div align="center">
 
-${cards}
+*Noch keine Videos vorhanden.*
 
 </div>
+
+${END_MARKER}`;
+  }
+
+  const rows = [];
+  for (let i = 0; i < videos.length; i += 3) {
+    const rowVideos = videos.slice(i, i + 3);
+
+    const cells = rowVideos
+      .map(
+        ({ title, videoId }) => `
+<td width="33.33%" align="center" valign="top">
+  <a href="https://www.youtube.com/watch?v=${videoId}">
+    <img 
+      src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" 
+      alt="${escapeHtml(title || "YouTube Video")}"
+      width="100%"
+      style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
+    />
+  </a>
+  <br/>
+  <sub>${escapeHtml(title || "")}</sub>
+</td>`,
+      )
+      .join("");
+
+    const emptyCells = 3 - rowVideos.length;
+    const fillers = Array(emptyCells).fill(`<td width="33.33%"></td>`).join("");
+
+    rows.push(`<tr>${cells}${fillers}</tr>`);
+  }
+
+  return `${START_MARKER}
+
+<table width="100%" cellspacing="12" cellpadding="0">
+${rows.join("\n")}
+</table>
 
 ${END_MARKER}`;
 }
