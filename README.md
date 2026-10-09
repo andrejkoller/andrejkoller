@@ -2,7 +2,7 @@
 
 Portfolio - [dev.andrejkoller.com](https://dev.andrejkoller.com)
 
-<p>
+<p align="left">
   <a href="https://github.com/athanasasystems">Athanasa Systems</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/akirune">Akirune Interactive</a>
@@ -11,7 +11,7 @@ Portfolio - [dev.andrejkoller.com](https://dev.andrejkoller.com)
 <br />
 
 <!-- YOUTUBE:START -->
-<div align="center">
+<div align="left">
 
 </div>
 <!-- YOUTUBE:END -->
