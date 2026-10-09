@@ -1,8 +1,8 @@
 # andrejkoller
 
 - Official Website - [andrejkoller.com](https://andrejkoller.com)
-
 - Developer Portfolio - [dev.andrejkoller.com](https://dev.andrejkoller.com)
+- Online Shop - [shop.andrejkoller.com](https://shop.andrejkoller.com)
 
 ## Latest YouTube Videos
 
