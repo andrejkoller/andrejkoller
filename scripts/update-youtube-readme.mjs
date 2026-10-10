@@ -31,7 +31,7 @@ async function getLatestVideos(channelId) {
 
       return { title, videoId };
     })
-    .filter((v) => v.videoId); // leere Einträge rausfiltern
+    .filter((v) => v.videoId);
 }
 
 function escapeHtml(value) {
@@ -48,7 +48,7 @@ function createMarkdown(videos) {
 
 <div align="center">
 
-*Noch keine Videos vorhanden.*
+*No videos available.*
 
 </div>
 
@@ -56,19 +56,18 @@ ${END_MARKER}`;
   }
 
   const rows = [];
-  for (let i = 0; i < videos.length; i += 3) {
-    const rowVideos = videos.slice(i, i + 3);
+  for (let i = 0; i < videos.length; i += 4) {
+    const rowVideos = videos.slice(i, i + 4);
 
     const cells = rowVideos
       .map(
         ({ title, videoId }) => `
-<td width="33.33%" align="center" valign="top">
+<td width="25%" align="center" valign="top">
   <a href="https://www.youtube.com/watch?v=${videoId}">
     <img 
       src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg" 
       alt="${escapeHtml(title || "YouTube Video")}"
       width="100%"
-      style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.3);"
     />
   </a>
   <br/>
@@ -77,8 +76,8 @@ ${END_MARKER}`;
       )
       .join("");
 
-    const emptyCells = 3 - rowVideos.length;
-    const fillers = Array(emptyCells).fill(`<td width="33.33%"></td>`).join("");
+    const emptyCells = 4 - rowVideos.length;
+    const fillers = Array(emptyCells).fill(`<td width="25%"></td>`).join("");
 
     rows.push(`<tr>${cells}${fillers}</tr>`);
   }
