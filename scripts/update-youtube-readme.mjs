@@ -55,34 +55,40 @@ function createMarkdown(videos) {
 ${END_MARKER}`;
   }
 
-  const cells = videos
-    .slice(0, 4)
-    .map(
-      ({ title, videoId }) => `
-<td align="center" valign="top" width="210">
+  const rows = [];
+  for (let i = 0; i < videos.length; i += 4) {
+    const rowVideos = videos.slice(i, i + 4);
+
+    const cells = rowVideos
+      .map(
+        ({ title, videoId }) => `
+<td width="25%" align="center" valign="top">
   <a href="https://www.youtube.com/watch?v=${videoId}">
     <img
       src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg"
       alt="${escapeHtml(title || "YouTube Video")}"
-      width="200"
-      height="112"
+      width="100%"
     />
   </a>
   <br />
   <sub>${escapeHtml(title || "")}</sub>
 </td>`,
-    )
-    .join("");
+      )
+      .join("");
+
+    const emptyCells = 4 - rowVideos.length;
+    const fillers = Array(emptyCells)
+      .fill(`<td width="25%" align="center" valign="top">&nbsp;</td>`)
+      .join("");
+
+    rows.push(`<tr>${cells}${fillers}</tr>`);
+  }
 
   return `${START_MARKER}
 
-<div align="center">
-<table>
-<tr>
-${cells}
-</tr>
+<table width="100%" style="width:100%; table-layout:fixed;" cellspacing="12" cellpadding="0">
+${rows.join("\n")}
 </table>
-</div>
 
 ${END_MARKER}`;
 }
