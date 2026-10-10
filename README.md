@@ -8,25 +8,20 @@
 
 <!-- YOUTUBE:START -->
 
-<div align="center">
-<table>
+<table width="100%" style="width:100%; table-layout:fixed;" cellspacing="12" cellpadding="0">
 <tr>
-
-<td align="center" valign="top" width="210">
+<td width="25%" align="center" valign="top">
   <a href="https://www.youtube.com/watch?v=6SYzyqDeXs4">
     <img
       src="https://i.ytimg.com/vi/6SYzyqDeXs4/hqdefault.jpg"
       alt="Gymnopédie No. 3"
-      width="200"
-      height="112"
+      width="100%"
     />
   </a>
   <br />
   <sub>Gymnopédie No. 3</sub>
-</td>
-</tr>
+</td><td width="25%" align="center" valign="top">&nbsp;</td><td width="25%" align="center" valign="top">&nbsp;</td><td width="25%" align="center" valign="top">&nbsp;</td></tr>
 </table>
-</div>
 
 <!-- YOUTUBE:END -->
 
