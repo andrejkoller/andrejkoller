@@ -10,7 +10,7 @@
 
 <table width="100%" style="width:100%; table-layout:fixed;" cellspacing="12" cellpadding="0">
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
   <a href="https://www.youtube.com/watch?v=6SYzyqDeXs4">
     <img
       src="https://i.ytimg.com/vi/6SYzyqDeXs4/hqdefault.jpg"
@@ -20,7 +20,7 @@
   </a>
   <br />
   <sub>Gymnopédie No. 3</sub>
-</td><td width="25%" align="center" valign="top">&nbsp;</td><td width="25%" align="center" valign="top">&nbsp;</td><td width="25%" align="center" valign="top">&nbsp;</td></tr>
+</td><td width="33.33%" align="center" valign="top">&nbsp;</td><td width="33.33%" align="center" valign="top">&nbsp;</td></tr>
 </table>
 
 <!-- YOUTUBE:END -->
