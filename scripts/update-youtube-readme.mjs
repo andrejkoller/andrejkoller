@@ -56,13 +56,13 @@ ${END_MARKER}`;
   }
 
   const rows = [];
-  for (let i = 0; i < videos.length; i += 4) {
-    const rowVideos = videos.slice(i, i + 4);
+  for (let i = 0; i < videos.length; i += 3) {
+    const rowVideos = videos.slice(i, i + 3);
 
     const cells = rowVideos
       .map(
         ({ title, videoId }) => `
-<td width="25%" align="center" valign="top">
+<td width="33.33%" align="center" valign="top">
   <a href="https://www.youtube.com/watch?v=${videoId}">
     <img
       src="https://i.ytimg.com/vi/${videoId}/hqdefault.jpg"
@@ -76,9 +76,9 @@ ${END_MARKER}`;
       )
       .join("");
 
-    const emptyCells = 4 - rowVideos.length;
+    const emptyCells = 3 - rowVideos.length;
     const fillers = Array(emptyCells)
-      .fill(`<td width="25%" align="center" valign="top">&nbsp;</td>`)
+      .fill(`<td width="33.33%" align="center" valign="top">&nbsp;</td>`)
       .join("");
 
     rows.push(`<tr>${cells}${fillers}</tr>`);
